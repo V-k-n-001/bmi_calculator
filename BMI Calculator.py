@@ -6,4 +6,4 @@ bmi = float(weight)/float(height) ** 2
 print(bmi)
 
 
-# bmi calculator
+# bmi calculator by vivek
